@@ -1,4 +1,4 @@
-# Egg clock
+# Egg timer
 ![](https://tokei.rs/b1/github/Fritzist/Eieruhr)
 ![](https://tokei.rs/b1/github/Fritzist/Eieruhr?category=blanks)
 ![](https://tokei.rs/b1/github/Fritzist/Eieruhr?category=code)
